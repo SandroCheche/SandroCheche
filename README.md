@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning HTML, CSS and JS.
 - 💞️ I’m looking to collaborate on project to improve knowledge and experience.
-- 📫 How to reach me: chechelashvilialeksandre@gmail.com; +995 599 88 20 50.
+- 📫 How to reach me: chechelashvilialeksandre@gmail.com.
 
 <!---
 SandroCheche/SandroCheche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
